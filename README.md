@@ -1,2 +1,2 @@
-# airodump
+# airodump-beacon
 airodump-ng
